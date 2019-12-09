@@ -1,0 +1,715 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre",
+				"pre_vac"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"risk",
+				"risk_region_other_cities"
+			],
+			[
+				"ri",
+				"risk_region"
+			],
+			[
+				"dis",
+				"distCosine"
+			],
+			[
+				"small",
+				"small_cities"
+			],
+			[
+				"caseS_p",
+				"cases_plymouth"
+			],
+			[
+				"It_b",
+				"It_bristol"
+			],
+			[
+				"sm",
+				"small_cities"
+			],
+			[
+				"oth",
+				"other_cities"
+			],
+			[
+				"coor",
+				"coordinates_urban"
+			],
+			[
+				"liat",
+				"list_influx_time_data"
+			],
+			[
+				"list",
+				"list_influx_time_data"
+			],
+			[
+				"t_",
+				"t_influx_data"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"l",
+				"log_lh_single"
+			],
+			[
+				"n_",
+				"n_small_cities"
+			],
+			[
+				"V1",
+				"V1_fullreduced_with_births"
+			],
+			[
+				"L",
+				"London"
+			],
+			[
+				"lin",
+				"linetype"
+			],
+			[
+				"geom",
+				"geom_vline"
+			],
+			[
+				"V1_fu",
+				"V1_fullreduced_with_births"
+			],
+			[
+				"T",
+				"TRUE"
+			],
+			[
+				"tS",
+				"TSIR"
+			],
+			[
+				"mod",
+				"model.class"
+			],
+			[
+				"in",
+				"intercept"
+			],
+			[
+				"cas",
+				"cases_urban"
+			],
+			[
+				"res",
+				"result_dir_lasso"
+			],
+			[
+				"t",
+				"tsir"
+			],
+			[
+				"case",
+				"cases"
+			],
+			[
+				"low",
+				"lower_limits"
+			],
+			[
+				"of",
+				"off_set"
+			],
+			[
+				"axi",
+				"x_axis_at"
+			],
+			[
+				"log",
+				"log_scale"
+			],
+			[
+				"tsir.",
+				"tsir.all.places.prevac"
+			],
+			[
+				"tsir.all.places.",
+				"tsir.all.places.prevac"
+			],
+			[
+				"tsir",
+				"tsir.all.places"
+			],
+			[
+				"It",
+				"It_at_lags"
+			],
+			[
+				"local",
+				"local_I_lagged_predictors_2"
+			],
+			[
+				"local_I_lagged_predictors_",
+				"local_I_lagged_predictors_1"
+			],
+			[
+				"gr",
+				"gravity_lagged_predictors_2"
+			],
+			[
+				"R",
+				"R2"
+			],
+			[
+				"list.all.places.vac.f",
+				"list.all.places.vac.fullreduced"
+			],
+			[
+				"geom_lin",
+				"geom_abline"
+			],
+			[
+				"St",
+				"St_matrix"
+			],
+			[
+				"Bir",
+				"births_urban"
+			],
+			[
+				"V1_",
+				"V1_partialreduced"
+			],
+			[
+				"name",
+				"names_cities"
+			],
+			[
+				"places",
+				"places_to_fit"
+			],
+			[
+				"gra",
+				"gravity_lagged_predictors"
+			],
+			[
+				"col",
+				"colnames"
+			],
+			[
+				"It_",
+				"It_matrix"
+			],
+			[
+				"betas",
+				"betas_urban"
+			],
+			[
+				"birt",
+				"births_urban"
+			],
+			[
+				"ca",
+				"cases_urban_tmp"
+			],
+			[
+				"siz",
+				"size.train"
+			],
+			[
+				"place",
+				"pop_test_place"
+			],
+			[
+				"median",
+				"median_pop"
+			],
+			[
+				"tes",
+				"test_place"
+			],
+			[
+				"v",
+				"vac"
+			],
+			[
+				"bir",
+				"births_urban"
+			],
+			[
+				"su",
+				"susceptibles_urban"
+			],
+			[
+				"pop",
+				"pop_urban"
+			],
+			[
+				"media",
+				"median_pop"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"plac",
+				"places_to_fit"
+			],
+			[
+				"pla",
+				"places_to_fit"
+			],
+			[
+				"y.",
+				"y.hat.oneahead"
+			],
+			[
+				"te",
+				"test.train"
+			],
+			[
+				"si",
+				"size.train"
+			],
+			[
+				"y.hat",
+				"y.hat.eightahead"
+			],
+			[
+				"y.ha",
+				"y.hat.sevenahead"
+			],
+			[
+				"y.h",
+				"y.hat.threeahead"
+			],
+			[
+				"x_ax",
+				"x_axis_labels"
+			],
+			[
+				"x",
+				"x_axis_at"
+			],
+			[
+				"x_a",
+				"x_axis_labels"
+			],
+			[
+				"time",
+				"time_in_year"
+			],
+			[
+				"max",
+				"max_k_ahead"
+			],
+			[
+				"nam",
+				"names_cities"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code/main_inference_v1.r",
+			"settings":
+			{
+				"buffer_size": 30570,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code/main_inference_src_functions_v1.r",
+			"settings":
+			{
+				"buffer_size": 117699,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code/sim_forward.r",
+			"settings":
+			{
+				"buffer_size": 38276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code/sim_forward_functions.r",
+			"settings":
+			{
+				"buffer_size": 15161,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/tmp/main_inference.r",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/tmp/run_inference_with_stan.r",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/tmp/measles_stan.stan",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/run_inference_with_stan.r",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/temp_stan.cpp",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/measles_stan.stan",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/main_inference.r",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/tmp.cppp.R",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/inference/rscript/multi_city_inference_64_functions_2019_01_11.r",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/inference/rscript/multi_city_inference_64_functions_2017_04_27.r",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/inference/rscript/multi_city_inference_64_functions_2015_12_11.r",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/inference/rscript/multi_city_inference_64_functions_2015_07_11.r",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/main_inference_src_functions.r",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/temp.cpp",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/inference/rscript/test.stan",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/school.stan",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/measles.stan.R",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/inference_with_stan.stan",
+		"/Users/slau24/Google Drive/git projects/measles_competing_risks/code/rcpp_functions.cpp",
+		"/Users/slau24/Google Drive/git projects/ML_measles/doc/note/progress_log.txt",
+		"/Users/slau24/Google Drive/git projects/ML_measles/code/R/lasso_II_measles.R",
+		"/Users/slau24/Desktop/simulate_gravity_tsir.R",
+		"/Users/slau24/Desktop/src_function.R",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/others/tsir_predict_functions.r",
+		"/Users/slau24/Google Drive/git projects/ML_measles/ML_measles.sublime-workspace",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/simulation/rscript/tsir_rho_sim_functions.r",
+		"/Users/slau24/Google Drive/PU/scripts/measles_coupling/simulation/rscript/tsir_rho_sim.r",
+		"/Users/slau24/Google Drive/git projects/ML_measles/code/R/src_functions.R",
+		"/Users/slau24/Google Drive/git projects/ML_measles/code/R/lasso_measles.R",
+		"/Users/slau24/Google Drive/git projects/ML_measles/code/R/tmp.R",
+		"/Users/slau24/Google Drive/git projects/ML_measles/sublime.project"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"path4",
+			"path3",
+			"period",
+			"path1",
+			"sort_ind",
+			"other",
+			"define",
+			"round",
+			"data_resol",
+			"999",
+			"pow",
+			"_cardiff",
+			"It",
+			"log_lh_single",
+			"_mat",
+			"coordin",
+			"coord",
+			"M_PI",
+			"real",
+			"fut",
+			"dist_mat_betweeen_small_cities[",
+			"dist_mat_betweeen_small_cities",
+			"dist_mat",
+			"dist_between_small_cities",
+			"cases_small",
+			"list_all",
+			"influx_time",
+			"is.na",
+			"dist_to_exeter_small_cities",
+			"n_influx",
+			"period",
+			"list_all_time_data_with_ind",
+			"with_NA",
+			"mh_beta_rho_alphas_eta",
+			"mh_",
+			"list_all",
+			"ind",
+			"n_core",
+			"infl",
+			"list_inf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"_norwich",
+			"double"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code/main_inference_v1.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "code/main_inference_src_functions_v1.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1235,
+								1235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "code/sim_forward.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "code/sim_forward_functions.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3667,
+								3667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "measles_competing_risks.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
