@@ -430,7 +430,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -520,8 +520,8 @@
 						"selection":
 						[
 							[
-								640,
-								640
+								307,
+								307
 							]
 						],
 						"settings":
@@ -531,7 +531,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3806.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -561,7 +561,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 25877.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
